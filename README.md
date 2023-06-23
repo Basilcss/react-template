@@ -1,1 +1,1 @@
-# reactjs-basil-template
+# React JS & basil CSS template
