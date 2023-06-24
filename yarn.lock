@@ -613,10 +613,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
-basilcss@^0.0.97:
-  version "0.0.97"
-  resolved "https://registry.yarnpkg.com/basilcss/-/basilcss-0.0.97.tgz#0a5ed21f633d5f2dd7e94ad6a854b3e9989f74ee"
-  integrity sha512-rCGb6h5prJvQtPSdyeKcM9UWb3Smjv4xX968R5UKqyfFXq44WgBNd+zoA8YlDi/nrTYCyCVQy7eliLSiof+gDA==
+basilcss@^0.0.99:
+  version "0.0.99"
+  resolved "https://registry.yarnpkg.com/basilcss/-/basilcss-0.0.99.tgz#d0251ba98453fe47d0a630bdf78430d39cef7d5c"
+  integrity sha512-VylzOea0AAXJoNHRNN+SDiQTxSMU/em2uauGaucawxL1KUBgOFi4yCWgJEo5PD2v9gQuWLHLOuxHiEiKjXsbEw==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
