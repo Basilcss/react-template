@@ -1,6 +1,6 @@
-# React JS & basil CSS template
+# React.js & Basil.css template
 
-Minimal code example to show how Basil CSS works with React JS.
+Minimal code example to show how Basil.css works with React.js.
 
 ```
 export default function App() {
