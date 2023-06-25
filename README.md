@@ -2,6 +2,12 @@
 
 Minimal code example to show how Basil.css works with React.js.
 
+### in main.tsx
+```
+import "basilcss/basil.css"
+```
+
+### The template
 ```
 export default function App() {
   return (
