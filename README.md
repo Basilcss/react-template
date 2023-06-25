@@ -17,7 +17,7 @@ export default function App() {
         </p>
         <a
           className=" m-b-2 full-width big:w-30"
-          href="https://docs-basilcss.vercel.app/"
+          href="https://basilcss.com"
         >
           <button className="btn-primary m-b-2 full-width big:w-100">
             Try Basil CSS
