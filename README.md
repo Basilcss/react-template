@@ -8,7 +8,7 @@ import "basilcss/basil.css"
 ```
 
 ### The template
-```
+```js
 export default function App() {
   return (
     <main className="row m-2 vh-80 big:vh-100 big:m-0">
